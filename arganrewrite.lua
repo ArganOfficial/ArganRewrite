@@ -707,7 +707,7 @@ local CreditsTab = Window:CreateTab("Credits", "creative-commons")
 local ThemesTab = Window:CreateTab("Themes", "palette")
 
 CreditsTab:CreateSection("Credits :D")
-CreditsTab:CreateLabel("Argan • Rewrite Was made fully by both JustaRandomGuy and AGFX. UI was made by JustaRandomGuy and functions made by AGFX.", "shield")
+CreditsTab:CreateLabel("Argan • Rewrite Was made fully by both JustaRandomGuy, AGFX and voltzvoid. UI was made by JustaRandomGuy and functions made by AGFX.", "shield")
 CreditsTab:CreateLabel(" We are NOT responsible for any bans that may happen to you. When executing this script you should know that what you are doing can and will ban you.", "shield")
 
 ThemesTab:CreateSection("Themes")
